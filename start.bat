@@ -1,0 +1,1 @@
+java -Xms4096M -Xmx4096M --add-modules=jdk.incubator.vector -jar paper-26.3-244.jar --nogui
